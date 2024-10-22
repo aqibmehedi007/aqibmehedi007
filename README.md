@@ -91,4 +91,4 @@ For a more detailed breakdown of my experience, feel free to check my portfolio 
 ---
 
 ## 📈 **Let's Connect!**
-Feel free to reach out to me via [Email](mailto:aqibcareer007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aqib-mehedi/) to discuss potential collaborations or projects. Let's bring innovation to life together!
+Feel free to reach out to me via [Email](mailto:aqibcareer007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aqibmehedi) to discuss potential collaborations or projects. Let's bring innovation to life together!
