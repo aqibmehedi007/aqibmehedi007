@@ -83,7 +83,8 @@ For a more detailed breakdown of my experience, feel free to check my portfolio 
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+![Aqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+
 
 ## 📜 **Certifications**
 
