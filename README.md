@@ -82,7 +82,7 @@ For a more detailed breakdown of my experience, feel free to check my portfolio 
 - **Banglalink IT Incubator 2.0** - *Homemade Food Sales Platform*
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
 
 ## 📜 **Certifications**
 
