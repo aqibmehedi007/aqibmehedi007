@@ -21,7 +21,15 @@ I’m passionate about technology, research, and innovation. My hobbies and inte
 ## 💼 **Work Experience**
 
 ### Technosoft Integration (Full Stack Mobile Developer) - *Sep 2023 - Present*
-- Developed innovative mobile applications like **Tcard**, **Porua**, **OnlyMCQ**, and **Saifurs Books** using **Flutter** and **native Android** development.
+- 💳 **Tcard**: Revolutionized the digital payment landscape by building a **virtual card solution** with **NFC support**, enabling seamless tap-to-pay experiences across supported devices.
+
+- 📚 **Porua**: Led the full-cycle development of a **cutting-edge multi-vendor eBook reader app**, offering exclusive Bangla and English content.  
+  ⚡ Achieved the legacy of **fastest backend delivery** for **Porua.org**, ensuring optimal performance, reliability, and scalability under heavy loads.
+
+- 🧠 **OnlyMCQ**: Engineered a feature-rich **exam preparation platform** loaded with **350,000+ MCQs**, leveraging **automated data scraping** and intelligent categorization to assist students in mastering competitive exams.
+
+- 🛠️ **Tech Stack**: Flutter, Firebase, REST APIs, Riverpod, CI/CD with Codemagic, Web Scraping Tools
+
 
 ### Danesh Exchange (Mobile App Developer – Remote, Australia) — *Oct 2022 – Aug 2023*
 - Developed a high-security Flutter app for an Australian currency exchange company operating since 2009.
