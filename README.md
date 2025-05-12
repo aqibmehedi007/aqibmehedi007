@@ -21,14 +21,22 @@ I’m passionate about technology, research, and innovation. My hobbies and inte
 ## 💼 **Work Experience**
 
 ### Technosoft Integration (Full Stack Mobile Developer) - *Sep 2023 - Present*
-- 💳 **Tcard**: Revolutionized the digital payment landscape by building a **virtual card solution** with **NFC support**, enabling seamless tap-to-pay experiences across supported devices.
 
-- 📚 **Porua**: Led the full-cycle development of a **cutting-edge multi-vendor eBook reader app**, offering exclusive Bangla and English content.  
-  ⚡ Achieved the legacy of **fastest backend delivery** for **Porua.org**, ensuring optimal performance, reliability, and scalability under heavy loads.
+- 💳 **Tcard**  
+  Developed a modern **virtual card solution** with **NFC support**, transforming traditional payment workflows into fast, secure, and contactless experiences for users.
 
-- 🧠 **OnlyMCQ**: Engineered a feature-rich **exam preparation platform** loaded with **350,000+ MCQs**, leveraging **automated data scraping** and intelligent categorization to assist students in mastering competitive exams.
+- 📚 **Porua**  
+  Spearheaded the end-to-end development of **Porua**, a premium **multi-vendor eBook reader app** catering to diverse content publishers.  
+  🧠 Originally launched as a **single-vendor platform**, I **architected and executed the transformation** into a **multi-vendor system**, ensuring scalability, modularity, and clean data separation.  
+  🐍 Migrated thousands of eBooks by **scraping structured data using Python** and automating the **data transformation pipeline** to fit the multi-vendor architecture.  
+  ⚡ Achieved a performance benchmark as the **fastest backend delivery for Porua.org**, ensuring high availability and smooth user experience even under heavy traffic.
 
-- 🛠️ **Tech Stack**: Flutter, Firebase, REST APIs, Riverpod, CI/CD with Codemagic, Web Scraping Tools
+- 🧠 **OnlyMCQ**  
+  Built **OnlyMCQ**, a robust exam preparation platform housing **350,000+ multiple-choice questions**.  
+  📊 Extracted and structured this massive dataset using **Python-based web scraping**, organizing it into topics, difficulty levels, and subject areas to aid competitive exam aspirants.
+
+- 🛠️ **Tech Stack**: Flutter, Firebase, Python, REST APIs, Riverpod, Web Scraping (BeautifulSoup, Requests), CI/CD with Codemagic
+
 
 
 ### Danesh Exchange (Mobile App Developer – Remote, Australia) — *Oct 2022 – Aug 2023*
