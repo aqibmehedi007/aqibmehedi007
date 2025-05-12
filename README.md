@@ -23,6 +23,21 @@ I’m passionate about technology, research, and innovation. My hobbies and inte
 ### Technosoft Integration (Full Stack Mobile Developer) - *Sep 2023 - Present*
 - Developed innovative mobile applications like **Tcard**, **Porua**, **OnlyMCQ**, and **Saifurs Books** using **Flutter** and **native Android** development.
 
+### Danesh Exchange (Mobile App Developer – Remote, Australia) — *Oct 2022 – Aug 2023*
+- Developed a high-security Flutter app for an Australian currency exchange company operating since 2009.
+- Engineered the app architecture to match the performance and security standards of top-tier banking apps.
+
+**Key features included:**
+
+🔐 AES encryption, OTP login, and anti-tampering measures  
+📦 Currency purchase with Home Delivery / Click & Collect  
+🔄 Real-time exchange rates for 60+ currencies  
+📲 Secure notifications & customer identity verification  
+
+- Integrated with Australia Post, SMS/Email tracking, and backend services.
+
+**Tech Stack:** Flutter, Firebase, AES Encryption, Riverpod, REST APIs, CI/CD with Codemagic
+
 ### BASIS Institute of Technology & Management (Trainer) - *July 2018 - May 2020*
 - Trained two batches of developers in advanced Android application development.
 
