@@ -1,142 +1,105 @@
-# Aqib Mehedi - Crafting Tomorrow's Innovations 🚀
+# Aqib Mehedi – Full-Stack Developer & SaaS Architect 🚀
 
-**Versatile Full-stack Mobile Developer | Robotics Enthusiast | Data Science & AI Explorer**
+![Profile Views](https://komarev.com/ghpvc/?username=aqibmehedi007&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/aqibmehedi007?label=Followers&style=social)](https://github.com/aqibmehedi007)
+[![GitHub stars](https://img.shields.io/github/stars/aqibmehedi007?label=Stars&style=social)](https://github.com/aqibmehedi007)
 
-Hi! I'm **Aqib Mehedi**, a passionate and skilled developer with a wide array of expertise, ranging from mobile app development to robotics and AI. I thrive on solving complex problems and turning innovative ideas into reality. Whether it's developing cross-platform apps, designing sleek UX/UI, or pushing the boundaries of robotics, I’m always up for a challenge!
+**Full-Stack Developer | SaaS Architect | Innovation Leader | AI & Mobile Solutions Expert**
 
----
+Hi, I’m **Aqib Mehedi**, a results-driven developer with **10+ years of experience** turning complex challenges into scalable, high-impact technology solutions. I specialize in **Flutter, Laravel, Vue.js**, and **AI-driven applications**, with a proven track record of delivering award-winning products in **FinTech, EdTech, eCommerce, and SaaS**.
 
-## 🚀 **About Me**
-
-- 🎂 **Date of Birth:** February 8, 1993
-- 🌍 **Location:** Dhaka, Bangladesh
-- 📧 **Email:** aqibcareer007@gmail.com
-- 📞 **Phone:** +880 1777-818-880
-- 🗣️ **Languages:** Bangla (Native), English (Fluent), Hindi
-
-I’m passionate about technology, research, and innovation. My hobbies and interests include space exploration, music composition, photography, solving puzzles, research & learning, and running/fine-tuning LLMs.
+I’ve architected and launched a **SaaS ecosystem with 9+ products**, built a **banking-grade currency exchange app**, and developed **AI-powered storytelling and cooking assistant platforms**.
 
 ---
 
-## 💼 **Work Experience**
+## 🚀 About Me
 
-### *******************(soon) — *Lead - Mobile App Developer (Flutter)*
-*Jan 2025 – Present*
-- Lead App Developer of a cloud consulting and digital transformation startup.
-- Developed a comprehensive SaaS platform ecosystem with 7+ specialized products, including:
-  - ** Space:** Multipurpose agency platform (Laravel)
-  - **Learn:** Online course marketplace (Flutter, Laravel, Firebase)
-  - **Commerce:** Multi-vendor eCommerce platform (Laravel)
-  - **HRM:** HR & payroll management (Laravel)
-  - **Task:** Project management platform (Flutter, Laravel, Vue.js)
-  - **Cards:** Digital business card builder (Laravel)
-  - **Sl*************:** AI-powered multilingual storytelling app (Flutter, Firebase, GPT, DeepAI, KOKORO TTS)
-  - **Pocket Chef AI:** AI cooking assistant (Flutter, AI/ML, Computer Vision, GPT)
-- **Tech Stack:** Laravel, Vue.js, Flutter, PHP, MySQL, Firebase, REST APIs, Bootstrap, Tailwind CSS
+- 📍 **Location:** Dhaka, Bangladesh  
+- ✉ **Email:** [aqibcareer007@gmail.com](mailto:aqibcareer007@gmail.com)  
+- 🌐 **Portfolio:** [aqibmehedi.com](https://aqibmehedi.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/aqibmehedi](https://linkedin.com/in/aqibmehedi)  
+- 💻 **GitHub:** [github.com/aqibmehedi007](https://github.com/aqibmehedi007)  
+- 🗣 **Languages:** Bangla (Native), English (Fluent), Hindi  
 
-### Technosoft Integration — *Full-Stack Mobile App Developer*
-*Sep 2023 – Dec 2024*
-- Full app development lifecycle, from ideation to deployment.
-- **Key Projects:**
-  - **Tcard:** NFC-based virtual payment card solution with secure transactions.
-  - **Porua:** Advanced eBook/ePub reader with customizable reading settings.
-  - **OnlyMCQ:** MCQ exam preparation platform for students.
-  - **Saifurs Books:** Digital educational content platform.
-- **Tech Stack:** Flutter, Dart, Android native components, backend services
-
-### Danesh Exchange (Australia) — *Flutter App Developer (High-Security Platform)*
-*Oct 2022 – Aug 2023*
-- Developed a banking-grade Flutter application for currency exchange.
-- **Key Features:** AES-level encryption, OTP authentication, root detection, integration with Australia Post, real-time exchange rates, notifications.
-- **Tech Stack:** Flutter, Firebase, AES Encryption, REST APIs
-
-### BASIS Institute of Technology & Management (BITM) — *Trainer (Mobile App Development)*
-*July 2018 – May 2020*
-- Trained two batches in advanced Android application development.
-
-### Nerd Castle Limited — *Junior Software Engineer*
-*Apr 2018 – May 2020*
-- Led development of a parking solution app, awarded at BASIS National ICT Awards 2018.
-- **Tech Stack:** Android SDK, Java, Firebase, Google Maps API
-
-### AiramSoft LTD — *CEO & Founder*
-*Nov 2015 – Feb 2017*
-- Managed web and UX/UI projects for multiple clients.
-
-### Nurture Academy BD — *Senior Lecturer (IT)*
-*Nov 2015 – Dec 2024*
-- Course development, teaching programming, databases, application development.
-
-### TeamBlue BD — *Mobile Apps Developer*
-*Dec 2014 – Sep 2015*
-- Consumer mobile applications development.
-
-### Fiverr — *Graphics Design and Apps Development*
-*Aug 2013 – Dec 2024*
-- Graphics design (logos, UI mockups), mobile app development.
-
-### Google Developer Console — *Android App Development*
-*Mar 2012 – Dec 2024*
-- Multiple published Android applications on Google Play.
+💡 Passionate about **innovation, research, and cutting-edge tech**, I also enjoy **space exploration, music composition, photography, solving puzzles**, and **running/fine-tuning LLMs**.
 
 ---
 
-## 🛠️ **Skills**
+## 💼 Professional Experience
 
-### **Mobile Application Development** (95%)
-- **Languages/Tools:** Flutter, Dart, Android SDK, iOS SDK, Kotlin, Java, React Native, Xamarin, NFC integration, ARCore/ARKit, Firebase
-- **Techniques:** Dependency Injection, Unit/UI Testing, Design Patterns (MVC, MVP, MVVM), Performance Optimization, Security Best Practices
+### **Lead Mobile App Developer – Kamal-Paterson Ltd (KP Cloud)** *(Jan 2025 – Present)*
+- Spearheaded development of a **SaaS ecosystem with 9+ AI-powered products**:
+  - KP Space – Multipurpose agency platform (Laravel)  
+  - KP Learn – Online course marketplace (Flutter, Laravel, Firebase)  
+  - KP Commerce – Multi-vendor eCommerce (Laravel)  
+  - KP HRM – HR & payroll management (Laravel)  
+  - KP Task – Project management platform (Flutter, Laravel, Vue.js)  
+  - KP Cards – Digital business card builder (Laravel)  
+  - Sleepy Owl Stories – AI storytelling app (Flutter, Firebase, GPT, TTS)  
+  - Pocket Chef AI – AI cooking assistant (Flutter, AI/ML, GPT)  
+- **Tech Stack:** Laravel, Vue.js, Flutter, PHP, MySQL, Firebase, REST APIs, Tailwind CSS  
 
-### **Web & Backend Development** (90%)
-- **Languages/Tools:** Laravel, Vue.js, PHP, React.js, Node.js, REST APIs, GraphQL, MySQL, MongoDB, Firebase
-- **Skills:** Web Scraping, API Integration, PWA Development, SEO, Analytics
+### **Full-Stack Mobile App Developer – Technosoft Integration** *(Sep 2023 – Dec 2024)*
+- Developed **Tcard** (NFC payment), **Porua** (eBook reader), **OnlyMCQ** (exam prep), and **Saifurs Books** (educational platform)  
+- **Tech Stack:** Flutter, Dart, Android native, REST APIs  
 
-### **Security & DevOps**
-- AES encryption, OTP auth, CI/CD, Docker, AWS, Google Cloud, Azure, Kubernetes
-
-### **Design & UX** (85%)
-- Figma, Photoshop, UI/UX Design, Graphics Design, Branding
-
-### **Robotics & IoT** (85%)
-- Arduino, Raspberry Pi, ESP32, Sensors, Motors, Communication Modules, Power Supplies, GPS Modules
-
-### **Game Development (Unity 3D)** (78%)
-- Unity Scripting, Asset Store, UI Design, Animation, AR/VR Development
-
-### **Graphics Design** (90%)
-- Logo Design, UI/UX Design, Motion Graphics, Packaging Design, Typography
-
-### **Visual Effects (VFX)** (80%)
-- Motion Graphics, 3D Modeling, Rigging, Compositing, AR/VR for VFX
-
-### **Marketing** (90%)
-- Facebook Ads, Google Ads, App Store Optimization, Conversion Rate Optimization (CRO)
+### **Flutter App Developer – Danesh Exchange (Australia)** *(Oct 2022 – Aug 2023)*
+- Banking-grade Flutter app with **AES encryption, OTP auth, root detection**
+- Integrated with **3,000+ Australia Post locations**
 
 ---
 
-## 🧑‍💻 **Code Skills**
+## 🛠 Skills
 
-- **Languages:** C/C++, SQL, Java, Dart, Python, JavaScript, Batch/Shell Script
-- **Development Tools:** Android Studio, Visual Studio, MIT App Inventor, XAMPP, WAMP Server, Figma, Unity 3D
-- **Platforms:** Android, iOS, Google Play Store, Firebase, Web Development
-
----
-
-## 🏆 **Awards & Recognitions**
-
-- **BASIS National ICT Awards 2018** – Winner (Smart Parking App, Innovation Category)
-- **Banglalink IT Incubator 2.0** – Finalist (HomeFoodz platform)
+**Mobile Development (95%)** – Flutter, Dart, Android SDK, iOS SDK, Kotlin, Java, NFC, ARCore/ARKit  
+**Web & Backend (90%)** – Laravel, Vue.js, PHP, React.js, Node.js, MySQL, MongoDB, Firebase  
+**Security & DevOps** – AES Encryption, OTP Auth, CI/CD, Docker, AWS, Azure, Kubernetes  
+**Design & UX (85%)** – Figma, Photoshop, Branding  
+**Robotics & IoT (85%)** – Arduino, Raspberry Pi, ESP32  
+**Game Development (78%)** – Unity 3D, AR/VR  
 
 ---
 
-## 📜 **Certifications & Education**
+## 🏆 Awards
 
-- **Android Application Development (SEIP)** – BASIS, March 2018 – June 2018
-- **BSc in Computer Science & Engineering** – Daffodil International University, Graduated February 2017
-- **IELTS** – Mentors, 2012 (Score: 6.7)
+- **BASIS National ICT Awards 2018 – Winner** *(Smart Parking App, Innovation Category)*  
+- **Banglalink IT Incubator 2.0 – Finalist** *(HomeFoodz platform)*  
 
 ---
 
-## 📈 **Let's Connect!**
+## 📜 Education & Certifications
 
-Feel free to reach out to me via [Email](mailto:aqibcareer007@gmail.com) or [LinkedIn](https://linkedin.com/in/aqibmehedi) to discuss potential collaborations or projects. Let's bring innovation to life together! 
+- **BSc in Computer Science & Engineering** – Daffodil International University *(2017)*  
+- **Android App Development (SEIP)** – BASIS *(2018)*  
+- **IELTS** – Score: 6.7  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibmehedi007&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- [KP Task – Project Management SaaS](https://kamalpaterson.aqibmehedi.com/products/kp-task-project-management-team-collaboration-saas)  
+- [Sleepy Owl Stories – AI Storytelling App](https://sleepy-owl-stories.com/)  
+- [Pocket Chef AI – AI Cooking Assistant](https://kamalpaterson.aqibmehedi.com/products/pocket-chef-ai)  
+- [Porua – Bangla eBook Reader](https://porua.org/)  
+
+---
+
+## 📈 Let’s Connect
+
+📩 **Email:** [aqibcareer007@gmail.com](mailto:aqibcareer007@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/aqibmehedi](https://linkedin.com/in/aqibmehedi)  
+🌐 **Portfolio:** [aqibmehedi.com](https://aqibmehedi.com)  
+💻 **GitHub:** [github.com/aqibmehedi007](https://github.com/aqibmehedi007)
