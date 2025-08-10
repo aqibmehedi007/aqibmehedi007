@@ -16,7 +16,7 @@ jobs:
       - name: Run 3D profile generator
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # or use a PAT secret (see step 4)
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}   # or use a PAT secret (see step 4)
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & push generated images
         run: |
