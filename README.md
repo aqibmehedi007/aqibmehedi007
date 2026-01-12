@@ -81,19 +81,6 @@ I’ve architected and launched a **SaaS ecosystem with 9+ products**, built a *
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibmehedi007&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📂 Featured Projects
 
 - [Krishok AI – Farmer-Friendly AI Platform](https://farmer.aqibmehedi.com/landing_page/)
