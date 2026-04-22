@@ -1,10 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER BANNER -->
+<!-- ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:e0a040&height=220&section=header&text=Aqib%20Mehedi&fontSize=60&fontColor=e0a040&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%20%26%20Mobile%20Solutions%20Architect&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
-</p>
+<div align="center">
+
+# Aqib Mehedi
+
+### Senior AI & Mobile Solutions Architect
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TYPING ANIMATION -->
@@ -51,7 +55,7 @@ name: Aqib Mehedi
 location: Dhaka, Bangladesh
 role: Senior AI & Mobile Solutions Architect
 experience: 10+ years
-focus: AI-Powered SaaS Platforms × Cross-Platform Mobile Apps
+focus: AI-Powered SaaS Platforms x Cross-Platform Mobile Apps
 
 currently_building:
   - "CONTRAGRAVITON — Agentic AI Desktop Platform (FastAPI + React + Tauri + LlamaIndex)"
@@ -569,9 +573,13 @@ Exam preparation platform and digital content platform for Saifurs educational m
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0a040,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
-</p>
+<div align="center">
+
+---
+
+⭐ *From [aqibmehedi007](https://github.com/aqibmehedi007)* — Dhaka, Bangladesh 🇧🇩
+
+</div>
