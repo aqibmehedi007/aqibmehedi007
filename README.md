@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E0A040&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI-Powered+Products+for+10%2B+Years+%F0%9F%9A%80;Flutter+%7C+LLMs+%7C+SaaS+%7C+Desktop+Apps+%7C+Full+Stack;From+Dhaka+to+the+World+%E2%80%94+Shipping+Code+That+Matters" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E0A040&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=10%2B+Years+Building+AI-Powered+Products+%F0%9F%9A%80;15%2B+Projects+%7C+9%2B+SaaS+Products+%7C+Full+Stack+Architect;Flutter+%C2%B7+LLMs+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Tauri+%C2%B7+Laravel" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,12 +57,20 @@ currently_building:
   - "CONTRAGRAVITON — Agentic AI Desktop Platform (FastAPI + React + Tauri + LlamaIndex)"
   - "AI-powered mobile apps at Kamal-Paterson Ltd (KP Cloud)"
 
+career_highlights:
+  - "Architected a SaaS ecosystem with 9+ products (HRM, LMS, eCommerce, PM, Cards, Shop)"
+  - "Built 15+ full-stack projects across 21 repositories"
+  - "Won BASIS National ICT Awards 2018"
+  - "Mentored 40+ students in career prep & job placements"
+
 industries_served:
-  - FinTech        # Banking-grade currency exchange
-  - EdTech         # Course platforms & exam systems
-  - AgriTech       # AI farming with Bangla voice interaction
+  - FinTech        # Banking-grade currency exchange (Danesh Exchange)
+  - AgriTech       # AI farming with Bangla voice (Krishok AI, Tea Pest Intelligence)
+  - HealthTech     # Antenatal & postnatal guidance app
+  - EdTech         # LMS, exam systems, eBook platforms
   - eCommerce      # Multi-vendor SaaS ecosystems
-  - SaaS           # 9+ product ecosystem
+  - Entertainment  # AI storytelling (Sleepy Owl Stories)
+  - Enterprise     # HRM, project management, boardroom automation
 
 languages_spoken:
   - Bengali (Native)
@@ -79,61 +87,6 @@ fun_facts:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FLAGSHIP PROJECT — CONTRAGRAVITON -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🧠 Flagship Project — CONTRAGRAVITON
-
-> **An agentic AI desktop platform that acts as your autonomous "second brain."**
-
-<table>
-<tr>
-<td width="60%">
-
-**What it does:**
-- 💬 Multi-turn AI chat with real-time thought streaming (SSE)
-- 🌐 Autonomous browser automation via Playwright
-- 📚 Local knowledgebase with semantic vector search (ChromaDB)
-- 🖥️ Embedded code editor (Monaco) & terminal (xterm.js)
-- 🔀 Visual workflow builder (React Flow)
-- 🖼️ AI image generation
-- 🔒 100% local-first — your data never leaves your machine
-
-**Architecture:**
-- **Frontend:** React 19 · TypeScript 6 · Vite 8 · Tauri 2 (Rust)
-- **Backend:** FastAPI · LlamaIndex AgentWorkflow · Python
-- **LLM Providers:** Gemini · OpenAI · OpenRouter · LM Studio (local)
-- **Storage:** SQLite · ChromaDB · PARA-structured filesystem
-- **State:** Zustand · SSE streaming · CSS Modules
-
-</td>
-<td width="40%">
-
-```mermaid
-graph TB
-    A[React + Tauri Desktop] -->|SSE| B[FastAPI]
-    B --> C[LlamaIndex Agent]
-    C --> D[15+ Tool Suite]
-    D --> E[(ChromaDB)]
-    D --> F[(SQLite)]
-    D --> G[Playwright Browser]
-    C --> H{LLM Providers}
-    H --> I[Gemini]
-    H --> J[OpenAI]
-    H --> K[LM Studio]
-    
-    style A fill:#1a1a2e,stroke:#e0a040,color:#fff
-    style B fill:#16213e,stroke:#e0a040,color:#fff
-    style C fill:#0f3460,stroke:#e0a040,color:#fff
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -141,11 +94,11 @@ graph TB
 
 <table>
 <tr>
-<td align="center" width="20%"><b>🎯 Mobile</b></td>
+<td align="center" width="20%"><b>🎯 Mobile & Desktop</b></td>
 <td align="center" width="20%"><b>🤖 AI / ML</b></td>
 <td align="center" width="20%"><b>🌐 Frontend</b></td>
 <td align="center" width="20%"><b>⚙️ Backend</b></td>
-<td align="center" width="20%"><b>🛠️ DevOps</b></td>
+<td align="center" width="20%"><b>🛠️ DevOps & Data</b></td>
 </tr>
 <tr>
 <td align="center">
@@ -159,10 +112,12 @@ graph TB
 </td>
 <td align="center">
 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A2D82?style=flat-square&logo=llama&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A2D82?style=flat-square&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=333)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 </td>
@@ -170,6 +125,7 @@ graph TB
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
@@ -180,6 +136,7 @@ graph TB
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -188,9 +145,314 @@ graph TB
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- FLAGSHIP PROJECT — CONTRAGRAVITON -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🧠 Flagship: CONTRAGRAVITON — Agentic AI Desktop Platform
+
+> **An autonomous "second brain" that can plan, research, browse the web, edit code, and execute commands — all through conversation.**
+
+<table>
+<tr>
+<td width="55%">
+
+**Core Capabilities:**
+- 💬 Multi-turn AI chat with real-time thought streaming (SSE)
+- 🌐 Autonomous browser automation via Playwright
+- 📚 Local knowledgebase with semantic vector search (ChromaDB)
+- 🖥️ Embedded code editor (Monaco) & terminal (xterm.js)
+- 🔀 Visual workflow builder with node-based execution engine (React Flow)
+- 🖼️ AI image generation via Flux models
+- 🧊 3D knowledge vector map (Three.js + force-graph)
+- 🔒 100% local-first — your data never leaves your machine
+
+**Architecture:**
+- **Frontend:** React 19 · TypeScript 6 · Vite 8 · Tauri 2 (Rust)
+- **Backend:** FastAPI · LlamaIndex AgentWorkflow · 15+ agent tools
+- **LLM Providers:** Gemini · OpenAI · OpenRouter · LM Studio (local)
+- **Storage:** SQLite · ChromaDB · PARA-structured filesystem
+- **Streaming:** Server-Sent Events with real-time reasoning visibility
+
+</td>
+<td width="45%">
+
+```mermaid
+graph TB
+    A[React + Tauri Desktop] -->|SSE Stream| B[FastAPI Backend]
+    B --> C[Provider Pipeline]
+    C --> D{LLM Providers}
+    D --> E[Gemini]
+    D --> F[OpenAI]
+    D --> G[LM Studio]
+    B --> H[LlamaIndex Agent]
+    H --> I[15+ Tool Suite]
+    I --> J[(ChromaDB Vectors)]
+    I --> K[(SQLite Brain DB)]
+    I --> L[Playwright Browser]
+    I --> M[Shell Commands]
+    
+    style A fill:#1a1a2e,stroke:#e0a040,color:#fff
+    style B fill:#16213e,stroke:#e0a040,color:#fff
+    style C fill:#0f3460,stroke:#e0a040,color:#fff
+    style H fill:#0f3460,stroke:#e0a040,color:#fff
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- FULL PROJECT PORTFOLIO -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Project Portfolio — 15+ Projects Across 21 Repositories
+
+### 🤖 AI & Machine Learning
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧠 CONTRAGRAVITON
+**Agentic AI Desktop Platform**
+
+Full-stack AI assistant with browser automation, knowledge management, code editing, workflow builder, and real-time streaming — all in a Tauri desktop app.
+
+`FastAPI` `React 19` `Tauri 2` `LlamaIndex` `ChromaDB` `Playwright` `Three.js`
+
+</td>
+<td width="50%">
+
+#### 🔬 ImagineO — Dataset Generator & AI Vision Suite
+**Agricultural Data Engineering Platform**
+
+10-project AI suite: web harvesting, YOLO-based object extraction, synthetic dataset generation, model training (ViT, MobileNet), and universal multi-model disease diagnostics.
+
+`Python` `YOLOv11` `Vision Transformers` `MobileNetV3` `OpenAI` `FAISS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔍 Vector Image Search
+**AI-Powered Similarity Search Engine**
+
+High-performance image search using EfficientNetB0 feature extraction and FAISS for sub-millisecond similarity matching. Supports crop disease detection across corn, potato, rice, and wheat.
+
+`FastAPI` `React + Vite` `EfficientNetB0` `FAISS` `AWS S3`
+
+</td>
+<td width="50%">
+
+#### 🤖 [Echo AI Assistant](https://www.youtube.com/watch?v=DAEdfBPiQ14)
+**Task Automation Tool**
+
+AI-powered personal assistant for intelligent task automation and workflow management.
+
+`Python` `AI/ML` `NLP` `Automation`
+
+</td>
+</tr>
+</table>
+
+### 🌾 AgriTech & HealthTech
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🌾 [Krishok AI](https://farmer.aqibmehedi.com/landing_page/)
+**AI Farming Platform**
+
+GPT-4o powered agricultural assistant with Bangla voice interaction, crop disease diagnosis via camera, dealer locator, and weather integration. Serves rural Bangladesh.
+
+`Flutter` `Laravel` `GPT-4o` `Firebase` `Google TTS`
+
+</td>
+<td width="33%">
+
+#### 🍵 Tea Pest Intelligence
+**Plantation Pest Management**
+
+Replaces WhatsApp chaos with offline-first mobile capture, 3D geospatial heatmaps, gamified reporting, and automated treatment dispatch for Bangladesh's tea estates.
+
+`Flutter` `FastAPI` `Next.js` `PostgreSQL + PostGIS` `AWS Lambda + SQS`
+
+</td>
+<td width="33%">
+
+#### 🤰 Antental
+**Maternal Health Guidance App**
+
+Antenatal & postnatal guidance for Bangladesh — WHO/UNICEF-backed content, personalized pregnancy journeys, offline mode, emergency features, and AI-generated learning content.
+
+`Flutter` `Laravel` `MySQL` `Firebase`
+
+</td>
+</tr>
+</table>
+
+### 🏢 KP Cloud SaaS Ecosystem — 9+ Products
+
+<table>
+<tr>
+<td width="33%">
+
+#### 📚 [KP Learn](https://kplearn.aqibmehedi.com/)
+**Learning Management System**
+
+Udemy-style LMS with course creation, quizzes, certificates, instructor dashboards, video management, and monetization.
+
+`PHP` `CodeIgniter` `MySQL` `JavaScript`
+
+</td>
+<td width="33%">
+
+#### 🛒 KP Commerce
+**Multi-Vendor eCommerce CMS**
+
+Full eCommerce ecosystem: admin panel, seller dashboard, customer app, deliveryman app, built-in POS, multi-language & multi-currency.
+
+`Laravel 10` `Flutter` `MySQL` `PHP 8.2`
+
+</td>
+<td width="33%">
+
+#### 👥 KP HRM
+**HR & Payroll Management**
+
+Recruitment to retirement: payroll automation, attendance, leave management, KPI tracking, timesheets, finance, helpdesk, and training modules.
+
+`Laravel` `PHP 8.2` `MySQL` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 📋 KP Task
+**Project Management & Collaboration**
+
+Kanban boards, time tracking, invoicing, client portals, ticketing, built-in chat, and multi-role dashboards.
+
+`CodeIgniter` `PHP 8.0` `MySQL` `JavaScript`
+
+</td>
+<td width="33%">
+
+#### 🛍️ KP Shop
+**Digital Marketplace**
+
+Multi-vendor digital product sales with cloud storage (AWS S3, DigitalOcean, Storj), social logins, Pusher notifications, and reviewer panel.
+
+`Laravel` `PHP 8.x` `MySQL` `AWS S3` `Pusher`
+
+</td>
+<td width="33%">
+
+#### 💳 KP Cards
+**Digital Business Card Builder SaaS**
+
+Multi-user vCard platform with customizable templates, QR codes, real-time editing, subscription plans, and glassmorphic dark theme.
+
+`Laravel` `PHP 8.1` `MySQL` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🌐 KPSpace
+**Multipurpose Agency Platform**
+
+Laravel 12 agency script with pre-designed layouts, SASS styling, RTL support, multilingual (Bengali), e-commerce, and invoice templates.
+
+`Laravel 12` `PHP 8.x` `MySQL` `SASS`
+
+</td>
+<td width="33%" colspan="2">
+
+#### 🔗 Synapse Link
+**Boardroom Automation System**
+
+Zero-friction conference room appliance: 1-click Zoom/Teams launch, OBS-powered laptop presentation, IT panic button with Slack/Teams webhooks, glassmorphic kiosk UI.
+
+`React` `Tailwind CSS v4` `Framer Motion` `Python` `OBS Studio`
+
+</td>
+</tr>
+</table>
+
+### 📱 Consumer Apps
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🦉 [Sleepy Owl Stories](https://play.google.com/store/apps/details?id=com.kpcloud.bedtime_app)
+**AI Bedtime Storytelling**
+
+Personalized AI stories with character customization, moral themes, Chibi art generation, multi-language TTS narration, and background music. Published on Google Play.
+
+`Flutter` `PHP` `MySQL` `GPT` `DeepAI` `Google TTS`
+
+</td>
+<td width="33%">
+
+#### 🍳 Pocket Chef AI
+**AI Cooking Assistant**
+
+Recipe generation from available ingredients, voice-controlled cooking, smart pantry management with expiry tracking, meal planning, and camera-based ingredient scanning.
+
+`Flutter` `Laravel` `GPT-3.5` `DeepAI` `Firebase`
+
+</td>
+<td width="33%">
+
+#### 💱 [Danesh Exchange](https://apps.apple.com/us/app/danesh-exchange/id6450658342)
+**Banking-Grade FinTech App**
+
+Secure currency exchange with AES encryption, OTP auth, root/jailbreak detection. Integrated with 3,000+ Australia Post locations.
+
+`Flutter` `Firebase` `AES Encryption` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 📖 [Porua](https://porua.org/)
+**Bangla eBook Reader**
+
+Multilingual digital reading platform serving the Bengali-speaking community.
+
+`Flutter` `Laravel` `Firebase` `REST APIs`
+
+</td>
+<td width="33%" colspan="2">
+
+#### 📝 OnlyMCQ & Saifurs Books
+**EdTech Platforms**
+
+Exam preparation platform and digital content platform for Saifurs educational materials.
+
+`Flutter` `Laravel` `Firebase` `REST APIs`
 
 </td>
 </tr>
@@ -207,9 +469,10 @@ graph TB
 ```
 2025 ─── Present    🏢 Senior Mobile App Developer (Flutter) — Kamal-Paterson Ltd (KP Cloud)
                     ├── Architected 5+ AI-powered mobile apps (Flutter + Firebase)
-                    ├── Built Sleepy Owl Stories (GPT storytelling), Pocket Chef AI (CV cooking)
-                    ├── Created Krishok AI — Bangla voice-powered farming platform
-                    └── Led KP Learn — Udemy-style course platform with analytics
+                    ├── Built Sleepy Owl Stories, Pocket Chef AI, Krishok AI
+                    ├── Created Tea Pest Intelligence & ImagineO AI Vision Suite
+                    ├── Led KP Learn, KP Commerce, KP HRM, KP Task, KP Cards, KP Shop
+                    └── Designed Synapse Link boardroom automation system
 
 2023 ─── 2024      🏢 Senior Software Engineer (Flutter) — Technosoft Informatics LTD
                     ├── Tcard (NFC payments), Porua (multilingual eBooks)
@@ -229,83 +492,6 @@ graph TB
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 CONTRAGRAVITON
-**Agentic AI Desktop Platform**
-
-Full-stack AI assistant with browser automation, knowledge management, code editing, workflow builder, and real-time streaming — all in a Tauri desktop app.
-
-`FastAPI` `React 19` `Tauri 2` `LlamaIndex` `ChromaDB` `Playwright`
-
-</td>
-<td width="50%">
-
-### 🌾 [Krishok AI](https://farmer.aqibmehedi.com/landing_page/)
-**AI-Powered Farming Platform**
-
-Farmer-friendly AI with single-tap Bangla voice interaction. Makes agricultural intelligence accessible to rural communities.
-
-`Flutter` `Firebase` `GPT` `Voice AI` `Bangla NLP`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💱 [Danesh Exchange](https://apps.apple.com/us/app/danesh-exchange/id6450658342)
-**Banking-Grade FinTech App**
-
-Secure currency exchange with AES encryption, OTP authentication, root/jailbreak detection, integrated with 3,000+ Australia Post locations.
-
-`Flutter` `AES Encryption` `Firebase` `REST APIs`
-
-</td>
-<td width="50%">
-
-### 📚 [KP Learn](https://kplearn.aqibmehedi.com/)
-**Online Course Platform**
-
-Udemy-style learning platform with instructor dashboards, analytics, and cross-platform mobile experience.
-
-`Flutter` `Laravel` `Vue.js` `MySQL` `Firebase`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [Echo AI Assistant](https://www.youtube.com/watch?v=DAEdfBPiQ14)
-**Task Automation Tool**
-
-AI-powered personal assistant for task automation and intelligent workflow management.
-
-`Python` `AI/ML` `Automation` `NLP`
-
-</td>
-<td width="50%">
-
-### 📖 [Porua](https://porua.org/)
-**Bangla eBook Reader**
-
-Multilingual digital reading platform serving the Bengali-speaking community with a rich, accessible reading experience.
-
-`Flutter` `Laravel` `Firebase` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -317,12 +503,8 @@ Multilingual digital reading platform serving the Bengali-speaking community wit
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqibmehedi007&bg_color=0d1117&color=e0a040&line=e0a040&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="98%" alt="Contribution Graph" />
