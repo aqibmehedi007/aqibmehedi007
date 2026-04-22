@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Aqib Mehedi
+#  Aqib Mehedi
 
 ### Senior AI & Mobile Solutions Architect
 
@@ -167,56 +167,141 @@ fun_facts:
 
 ## 🧠 Flagship: CONTRAGRAVITON — Agentic AI Desktop Platform
 
-> **An autonomous "second brain" that can plan, research, browse the web, edit code, and execute commands — all through conversation.**
+> **An autonomous "second brain" that can plan, research, browse the web, edit code, and execute commands — all through conversation with full reasoning transparency.**
 
-<table>
-<tr>
-<td width="55%">
+### What It Does
 
-**Core Capabilities:**
-- 💬 Multi-turn AI chat with real-time thought streaming (SSE)
-- 🌐 Autonomous browser automation via Playwright
-- 📚 Local knowledgebase with semantic vector search (ChromaDB)
-- 🖥️ Embedded code editor (Monaco) & terminal (xterm.js)
-- 🔀 Visual workflow builder with node-based execution engine (React Flow)
-- 🖼️ AI image generation via Flux models
-- 🧊 3D knowledge vector map (Three.js + force-graph)
-- 🔒 100% local-first — your data never leaves your machine
+| Module | Description |
+|:-------|:------------|
+| 💬 **AI Chat** | Multi-turn conversations with real-time thought streaming — see every tool call, reasoning step, and result live via SSE |
+| 🌐 **Browser Agent** | Autonomous Playwright-powered web browsing — navigates, clicks, types, screenshots, with visual feedback |
+| 📚 **Knowledge System** | PARA-structured local knowledgebase with 6-strategy retrieval: SQL index, grep, semantic vector search (ChromaDB), and web fallback |
+| 🖥️ **Code Editor** | Monaco-based IDE with project-aware AI — the agent reads your open files and project structure |
+| 🔀 **Workflow Builder** | Visual node-based workflow editor (React Flow) with a dedicated AI architect agent |
+| 🧊 **3D Vector Map** | Interactive Three.js force-graph visualization of your entire knowledge graph |
+| 💻 **Terminal** | Embedded xterm.js shell with human-in-the-loop approval for commands |
+| 🖼️ **Image Generation** | AI-powered image creation via Flux models |
 
-**Architecture:**
-- **Frontend:** React 19 · TypeScript 6 · Vite 8 · Tauri 2 (Rust)
-- **Backend:** FastAPI · LlamaIndex AgentWorkflow · 15+ agent tools
-- **LLM Providers:** Gemini · OpenAI · OpenRouter · LM Studio (local)
-- **Storage:** SQLite · ChromaDB · PARA-structured filesystem
-- **Streaming:** Server-Sent Events with real-time reasoning visibility
-
-</td>
-<td width="45%">
+### System Architecture
 
 ```mermaid
 graph TB
-    A[React + Tauri Desktop] -->|SSE Stream| B[FastAPI Backend]
-    B --> C[Provider Pipeline]
-    C --> D{LLM Providers}
-    D --> E[Gemini]
-    D --> F[OpenAI]
-    D --> G[LM Studio]
-    B --> H[LlamaIndex Agent]
-    H --> I[15+ Tool Suite]
-    I --> J[(ChromaDB Vectors)]
-    I --> K[(SQLite Brain DB)]
-    I --> L[Playwright Browser]
-    I --> M[Shell Commands]
-    
-    style A fill:#1a1a2e,stroke:#e0a040,color:#fff
-    style B fill:#16213e,stroke:#e0a040,color:#fff
-    style C fill:#0f3460,stroke:#e0a040,color:#fff
-    style H fill:#0f3460,stroke:#e0a040,color:#fff
+    subgraph Desktop["🖥️ Desktop Shell"]
+        Tauri["Tauri 2 (Rust + WebView2)"]
+    end
+
+    subgraph Frontend["⚛️ Frontend — React 19 + TypeScript 6"]
+        Router["HashRouter"] --> Chat["Chat Panel"]
+        Router --> Browser["Browser Panel"]
+        Router --> Builder["Workflow Builder"]
+        Router --> Code["Code Editor (Monaco)"]
+        Router --> KB["Knowledge Hub + 3D Map"]
+        Router --> Terminal["Terminal (xterm.js)"]
+        SSE["useSSEStream Hook"]
+        Stores["Zustand Stores (7 domains)"]
+    end
+
+    subgraph Backend["🐍 Backend — FastAPI + Python"]
+        API["Router Layer + SSE Producer/Consumer"]
+        Pipeline["Provider Pipeline (Registry Pattern)"]
+        Agents["LlamaIndex AgentWorkflow"]
+        Tools["15+ Agent Tools"]
+        PromptBuilder["System Prompt Builder (6 sections)"]
+    end
+
+    subgraph Providers["🤖 LLM Providers (Hot-Swappable)"]
+        Gemini["Gemini (GemmaCleanWrapper)"]
+        OpenAI["OpenAI GPT"]
+        OpenRouter["OpenRouter"]
+        LMStudio["LM Studio (Local, Reasoning-Native)"]
+    end
+
+    subgraph Storage["💾 Local-First Storage"]
+        BrainDB[("brain.db (SQLite)\nFile index + metadata")]
+        ChromaDB[("ChromaDB\nall-MiniLM-L6-v2 embeddings")]
+        Threads[("Thread JSON Files\nConversation history")]
+        PARA["PARA Filesystem\nKnowledgebase"]
+    end
+
+    Tauri --> Frontend
+    Frontend -->|"HTTP POST + SSE Stream"| Backend
+    SSE --> API
+    API --> Pipeline
+    Pipeline -->|"@register_provider decorator"| Providers
+    Pipeline --> PromptBuilder
+    API --> Agents
+    Agents --> Tools
+    Tools --> BrainDB
+    Tools --> ChromaDB
+    Tools --> PARA
+    API --> Threads
+
+    style Desktop fill:#333,stroke:#e0a040,color:#fff
+    style Frontend fill:#1a1a2e,stroke:#e0a040,color:#fff
+    style Backend fill:#16213e,stroke:#e0a040,color:#fff
+    style Providers fill:#0f3460,stroke:#e0a040,color:#fff
+    style Storage fill:#1a1a1a,stroke:#e0a040,color:#fff
 ```
+
+### Key Engineering Decisions
+
+<table>
+<tr>
+<td width="50%">
+
+**🔌 Modular Provider Pipeline**
+
+Zero `if provider ==` branching. Each LLM provider (Gemini, OpenAI, OpenRouter, LM Studio) is a self-contained pipeline class registered via `@register_provider` decorator. The chat router delegates all provider-specific logic through an abstract base class with 3 methods: `create_llm()`, `build_system_prompt()`, `translate_stream_event()`.
+
+**🧠 Dual Reasoning Strategy**
+
+Cloud providers (Gemini, OpenAI) use `<think>` tag protocol injected into the system prompt. LM Studio uses native `reasoning_content` tokens streamed as real-time "thinking" thoughts. Small models (2B and under) get a simplified prompt to prevent looping.
+
+**📡 SSE Producer/Consumer Queue**
+
+`asyncio.Queue` decouples event production from SSE consumption. Heartbeats every 5s on timeout. Client disconnect detection cancels the producer task. 7 event types: thought, chunk, Final, title_update, Error, heartbeat, and input_required (human-in-the-loop).
+
+</td>
+<td width="50%">
+
+**🔍 6-Strategy Knowledge Retrieval**
+
+The agent follows a cascading search hierarchy:
+1. `query_brain_index` — SQL on SQLite (structural)
+2. `exact_match_kb` — grep across files (keyword)
+3. `read_file_range` — zoom into known file
+4. `search_knowledgebase` — ChromaDB semantic search
+5. `list_knowledgebase_files` — directory browsing
+6. `search_web` — DuckDuckGo fallback
+
+**📋 Auto-Generated KB Map**
+
+At prompt-build time, `brain.db` is queried to produce a compact folder tree injected into the system prompt. The agent always knows the knowledgebase structure without calling any tools first.
+
+**🖥️ Desktop + Web Dual Mode**
+
+Same codebase runs as a Tauri 2 desktop app (Rust + WebView2) or a browser SPA served by FastAPI. HashRouter for Tauri compatibility. 7 Zustand stores manage state across chat, workflow, settings, knowledge, code, terminal, and UI domains.
 
 </td>
 </tr>
 </table>
+
+### Tech Stack
+
+| Layer | Technology |
+|:------|:-----------|
+| **Frontend** | React 19 · TypeScript 6 · Vite 8 · Zustand · CSS Modules |
+| **Desktop** | Tauri 2 (Rust + WebView2) |
+| **Editors** | Monaco Editor · React Flow (`@xyflow/react`) · xterm.js |
+| **3D** | Three.js · 3d-force-graph · D3 |
+| **Backend** | FastAPI · Uvicorn · Python · Pydantic |
+| **AI** | LlamaIndex AgentWorkflow · 15+ tool categories |
+| **LLMs** | Google Gemini · OpenAI · OpenRouter · LM Studio (local) |
+| **Vector DB** | ChromaDB + `all-MiniLM-L6-v2` sentence-transformers |
+| **Database** | SQLite (`brain.db` file index) |
+| **Browser** | Playwright (headless/headed Chromium) |
+| **Search** | DuckDuckGo Search · Multi-strategy retrieval |
+| **Streaming** | Server-Sent Events (SSE) · asyncio Queue pattern |
 
 ---
 
