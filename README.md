@@ -2,13 +2,7 @@
 <!-- ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-#  Aqib Mehedi
-
-### Senior AI & Mobile Solutions Architect
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&section=footer&height=150&text=Aqib%20Mehedi&fontSize=48&fontColor=e0a040&animation=fadeIn&fontAlignY=62" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TYPING ANIMATION -->
@@ -576,10 +570,4 @@ Exam preparation platform and digital content platform for Saifurs educational m
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
----
-
-⭐ *From [aqibmehedi007](https://github.com/aqibmehedi007)* — Dhaka, Bangladesh 🇧🇩
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&section=footer&height=120&text=⭐%20From%20aqibmehedi007%20—%20Dhaka,%20Bangladesh%20🇧🇩&fontSize=16&fontColor=8b949e&animation=fadeIn&fontAlignY=65" />
