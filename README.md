@@ -2,7 +2,7 @@
 <!-- ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&section=footer&height=150&text=Aqib%20Mehedi&fontSize=48&fontColor=e0a040&animation=fadeIn&fontAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d1b4e,100:e0a040&section=header&height=160&text=Aqib%20Mehedi&fontSize=40&fontColor=e0a040&animation=fadeIn&fontAlignY=45" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TYPING ANIMATION -->
@@ -570,4 +570,4 @@ Exam preparation platform and digital content platform for Saifurs educational m
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&section=footer&height=120&text=⭐%20From%20aqibmehedi007%20—%20Dhaka,%20Bangladesh%20🇧🇩&fontSize=16&fontColor=8b949e&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0a040,50:2d1b4e,100:1a1a2e&section=footer&height=120&text=⭐%20From%20aqibmehedi007%20—%20Dhaka,%20Bangladesh%20🇧🇩&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
