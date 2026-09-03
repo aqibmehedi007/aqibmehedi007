@@ -403,16 +403,17 @@ graph TB
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&icon_color=e0a040&text_color=8b949e&ring_color=e0a040" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqibmehedi007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=e0a040&ring=e0a040&fire=e0a040&currStreakLabel=e0a040&sideLabels=8b949e&currStreakNum=e0a040&dates=8b949e" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=aqibmehedi007&theme=dark&hide_border=true&background=0d1117&stroke=e0a040&ring=e0a040&fire=e0a040&currStreakLabel=e0a040&sideLabels=8b949e&currStreakNum=e0a040&dates=8b949e" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqibmehedi007&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqibmehedi007&theme=github_dark" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqibmehedi007&theme=github_dark" alt="Commit Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqibmehedi007&bg_color=0d1117&color=e0a040&line=e0a040&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="98%" alt="Contribution Graph" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqibmehedi007&theme=github_dark" alt="Productive Time Activity" />
 </p>
 
 ---
