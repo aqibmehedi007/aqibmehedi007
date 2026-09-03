@@ -397,10 +397,10 @@ graph TB
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
+<!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics & Code Velocity
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&icon_color=e0a040&text_color=8b949e&ring_color=e0a040" alt="GitHub Stats" />
@@ -408,7 +408,7 @@ graph TB
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
