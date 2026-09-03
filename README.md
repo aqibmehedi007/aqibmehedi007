@@ -2,7 +2,7 @@
 <!-- ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,80:1f2937,100:e0a040&section=header&height=180&text=Aqib%20Mehedi&fontSize=42&fontColor=e0a040&animation=fadeIn&fontAlignY=45&desc=Senior%20AI%20%26%20Mobile%20Solutions%20Architect%20%7C%20BASIS%20National%20ICT%20Award%20Winner&descFontSize=16&descAlignY=68&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d1b4e,100:e0a040&section=header&height=160&text=Aqib%20Mehedi&fontSize=40&fontColor=e0a040&animation=fadeIn&fontAlignY=45" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TYPING ANIMATION -->
