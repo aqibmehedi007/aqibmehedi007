@@ -2,7 +2,7 @@
 <!-- ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d1b4e,100:e0a040&section=header&height=160&text=Aqib%20Mehedi&fontSize=40&fontColor=e0a040&animation=fadeIn&fontAlignY=45" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,80:1f2937,100:e0a040&section=header&height=180&text=Aqib%20Mehedi&fontSize=42&fontColor=e0a040&animation=fadeIn&fontAlignY=45&desc=Senior%20AI%20%26%20Mobile%20Solutions%20Architect%20%7C%20BASIS%20National%20ICT%20Award%20Winner&descFontSize=16&descAlignY=68&descAlign=50" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TYPING ANIMATION -->
@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E0A040&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=10%2B+Years+Building+AI-Powered+Products+%F0%9F%9A%80;15%2B+Projects+%7C+9%2B+SaaS+Products+%7C+Full+Stack+Architect;Flutter+%C2%B7+LLMs+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Tauri+%C2%B7+Laravel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=E0A040&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=95&lines=9%2B+Years+Engineering+AI-Powered+Platforms+%26+Mobile+Ecosystems+%F0%9F%9A%80;30%2B+Production+Platforms+Delivered+%7C+Multi-Million+User+Scale;Autonomous+AI+Agents+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+PostGIS+%C2%B7+Zero-Trust;Creator+of+Contragraviton+%C2%B7+BASIS+National+ICT+Award+Winner+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- BADGES ROW -->
+<!-- BADGES & QUICK LINKS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -34,6 +34,7 @@
   <a href="https://linkedin.com/in/aqibmehedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://aqibmehedi.com"><img src="https://img.shields.io/badge/Portfolio-e0a040?style=for-the-badge&logo=safari&logoColor=0d1117" /></a>
   <a href="mailto:aqibcareer007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://contragraviton.aqibmehedi.com/"><img src="https://img.shields.io/badge/Flagship-Contragraviton-10B981?style=for-the-badge&logo=electron&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,108 +47,115 @@
 
 ```yaml
 name: Aqib Mehedi
-location: Dhaka, Bangladesh
+location: Dhaka, Bangladesh (Open to 100% Remote Global Roles)
 role: Senior AI & Mobile Solutions Architect
-experience: 10+ years
-focus: AI-Powered SaaS Platforms x Cross-Platform Mobile Apps
+experience: 9+ years (Continuous verifiable trajectory 2017 – Present)
+focus: Autonomous AI Agents x Banking-Grade Mobile Platforms x Distributed Cloud Systems
 
 currently_building:
-  - "CONTRAGRAVITON — Agentic AI Desktop Platform (FastAPI + React + Tauri + LlamaIndex)"
-  - "AI-powered mobile apps at Kamal-Paterson Ltd (KP Cloud)"
+  - "CONTRAGRAVITON — Autonomous Agentic AI Desktop Platform (FastAPI + React 19 + Tauri 2 + LlamaIndex)"
+  - "Enterprise AI Vision & Telemetry Systems at Kamal-Paterson Ltd (KP Cloud)"
 
 career_highlights:
-  - "Architected a SaaS ecosystem with 9+ products (HRM, LMS, eCommerce, PM, Cards, Shop)"
-  - "Built 15+ full-stack projects across 21 repositories"
-  - "Won BASIS National ICT Awards 2018"
-  - "Mentored 40+ students in career prep & job placements"
+  - "Architected and shipped 30+ production platforms across FinTech, AgriTech, AI, and SaaS"
+  - "Winner of the prestigious BASIS National ICT Award 2018 (E-PARKING IoT Platform)"
+  - "Champion of Banglalink IT Incubator 2.0 (HOMEFOODZ Marketplace)"
+  - "Trained & mentored 150+ software engineers across Bangladesh (SEIP / BITM)"
+  - "Engineered banking-grade FinTech processing $5,000+ daily across 60+ currencies (Danesh Exchange)"
 
 industries_served:
-  - FinTech        # Banking-grade currency exchange (Danesh Exchange)
-  - AgriTech       # AI farming with Bangla voice (Krishok AI, Tea Pest Intelligence)
-  - HealthTech     # Antenatal & postnatal guidance app
-  - EdTech         # LMS, exam systems, eBook platforms
-  - eCommerce      # Multi-vendor SaaS ecosystems
-  - Entertainment  # AI storytelling (Sleepy Owl Stories)
-  - Enterprise     # HRM, project management, boardroom automation
+  - FinTech        # Banking-grade FX, AES-256 GCM, root detection, 3,000+ Australia Post branches
+  - AgriTech       # Dialect-aware Bangla voice AI, on-device foliar vision, PostGIS spatial GIS
+  - Agentic AI     # Autonomous pair programmers, multi-agent RAG, 4-bit GGUF quantization
+  - Enterprise     # Zero-trust document operating systems (McFTP), boardroom automation (KP Nexus)
+  - Mobile & IoT   # Hardware NFC payments (Tcard), smart parking IoT gateways, BLE hardware
+  - EdTech & DRM   # Hardware-bound cryptographic eBook security & DRM (Porua.org)
 
 languages_spoken:
   - Bengali (Native)
-  - English (Professional — IELTS 6.5)
+  - English (Full Professional Proficiency — IELTS 6.5)
   - Hindi (Conversational)
 
-fun_facts:
-  - "🔭 Space exploration enthusiast"
-  - "🎵 Music composer in spare time"
-  - "📸 Photography lover"
-  - "🧩 Puzzle solver & LLM tinkerer"
+philosophies:
+  - "High-performance systems should feel invisible, deterministic, and alive."
+  - "Local-first data sovereignty: user privacy and cryptographic security must come by default."
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
+<!-- TECH STACK ARSENAL -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## ⚡ Tech Stack
+## ⚡ Technical Arsenal
 
 <table>
 <tr>
-<td align="center" width="20%"><b>🎯 Mobile & Desktop</b></td>
-<td align="center" width="20%"><b>🤖 AI / ML</b></td>
-<td align="center" width="20%"><b>🌐 Frontend</b></td>
-<td align="center" width="20%"><b>⚙️ Backend</b></td>
-<td align="center" width="20%"><b>🛠️ DevOps & Data</b></td>
+<td align="center" width="20%"><b>🤖 Agentic AI & ML</b></td>
+<td align="center" width="20%"><b>📱 Mobile & Desktop</b></td>
+<td align="center" width="20%"><b>🌐 Frontend & Web</b></td>
+<td align="center" width="20%"><b>⚙️ Backend & APIs</b></td>
+<td align="center" width="20%"><b>🛠️ Cloud & Databases</b></td>
 </tr>
 <tr>
 <td align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=333)
-
-</td>
-<td align="center">
-
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A2D82?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logoColor=white)
+![GGUF](https://img.shields.io/badge/GGUF_Quantization-3776AB?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=333)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11_Vision-00FFFF?style=flat-square&logoColor=333)
+![Playwright](https://img.shields.io/badge/Playwright_Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 </td>
 <td align="center">
 
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=333)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_Lead-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_Native-000000?style=flat-square&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Tauri 2](https://img.shields.io/badge/Tauri_2.0-FFC131?style=flat-square&logo=tauri&logoColor=333)
+![Riverpod](https://img.shields.io/badge/Riverpod_Bloc-2563EB?style=flat-square&logoColor=white)
+![NFC Hardware](https://img.shields.io/badge/NFC_ISO--DEP-EA580C?style=flat-square&logoColor=white)
+![AES-256](https://img.shields.io/badge/AES--256_GCM-DC2626?style=flat-square&logoColor=white)
 
 </td>
 <td align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript_5+-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_AppRouter-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite_Fast-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js_WebGL-000?style=flat-square&logo=threedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Monaco](https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+<td align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI_Python-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets_SSE-0284C7?style=flat-square&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL_APIs-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 </td>
 <td align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS_Spatial-00758F?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite_Prisma-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333)
 
 </td>
 </tr>
@@ -156,56 +164,51 @@ fun_facts:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FLAGSHIP PROJECT — CONTRAGRAVITON -->
+<!-- FLAGSHIP ARCHITECTURE — CONTRAGRAVITON -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🧠 Flagship: CONTRAGRAVITON — Agentic AI Desktop Platform
+## 🧠 Flagship Architecture: CONTRAGRAVITON
 
-> **An autonomous "second brain" that can plan, research, browse the web, edit code, and execute commands — all through conversation.**
+> **Autonomous Desktop Agentic Process Orchestrator (APO) featuring 13 native CLI tools, dual-path vector indexing, non-destructive AST diff patching, and local-first data sovereignty.**
 
 <table>
 <tr>
 <td width="55%">
 
 **Core Capabilities:**
-- 💬 Multi-turn AI chat with real-time thought streaming (SSE)
-- 🌐 Autonomous browser automation via Playwright
-- 📚 Local knowledgebase with semantic vector search (ChromaDB)
-- 🖥️ Embedded code editor (Monaco) & terminal (xterm.js)
-- 🔀 Visual workflow builder with node-based execution engine (React Flow)
-- 🖼️ AI image generation via Flux models
-- 🧊 3D knowledge vector map (Three.js + force-graph)
-- 🔒 100% local-first — your data never leaves your machine
+- 🛠️ **13 Native Tool Engine:** Filesystem indexing, regex ripgrep, AST diff patching, shell command execution, live web search, and sandboxed browser subagents.
+- 💬 **Live SSE Reasoning Stream:** Real-time visibility into the agent's chain-of-thought, tool invocation parameters, and execution artifacts.
+- 📚 **Dual-Path Vector RAG:** ChromaDB semantic embeddings paired with PARA-structured local memory vaults.
+- 🌐 **Autonomous Browser Subagent:** Playwright-driven headless & headed browser navigation, form interaction, and multi-step research.
+- 🖥️ **Integrated Developer IDE:** Embedded Monaco code editor, xterm.js terminal emulator, and node-based workflow builder (React Flow).
+- 🔒 **100% Local Sovereignty:** Zero proprietary cloud dependencies; compatible with Ollama, LM Studio, OpenAI, Gemini, and Claude.
 
-**Architecture:**
-- **Frontend:** React 19 · TypeScript 6 · Vite 8 · Tauri 2 (Rust)
-- **Backend:** FastAPI · LlamaIndex AgentWorkflow · 15+ agent tools
-- **LLM Providers:** Gemini · OpenAI · OpenRouter · LM Studio (local)
-- **Storage:** SQLite · ChromaDB · PARA-structured filesystem
-- **Streaming:** Server-Sent Events with real-time reasoning visibility
+**Stack:**
+- **Desktop Host:** Tauri 2 (Rust) + React 19 + TypeScript 5.8
+- **Agentic Engine:** FastAPI + Python 3.11 + LlamaIndex AgentWorkflow
+- **Vector & Storage:** ChromaDB + SQLite + Local Filesystem
 
 </td>
 <td width="45%">
 
 ```mermaid
 graph TB
-    A[React + Tauri Desktop] -->|SSE Stream| B[FastAPI Backend]
-    B --> C[Provider Pipeline]
-    C --> D{LLM Providers}
-    D --> E[Gemini]
-    D --> F[OpenAI]
-    D --> G[LM Studio]
-    B --> H[LlamaIndex Agent]
-    H --> I[15+ Tool Suite]
-    I --> J[(ChromaDB Vectors)]
-    I --> K[(SQLite Brain DB)]
-    I --> L[Playwright Browser]
-    I --> M[Shell Commands]
+    A[Desktop UI: React 19 + Tauri 2] -->|SSE Stream & WebSockets| B[FastAPI Engine]
+    B --> C[LlamaIndex Agent Orchestrator]
+    C --> D{Multi-Model Router}
+    D --> E[Claude 3.5 / GPT-4o]
+    D --> F[Gemini 2.5 Flash]
+    D --> G[Ollama / Local GGUF]
+    C --> H[13 Native Execution Tools]
+    H --> I[(ChromaDB Embeddings)]
+    H --> J[(SQLite Brain Vault)]
+    H --> K[Playwright Browser]
+    H --> L[Shell / File Patching]
     
-    style A fill:#1a1a2e,stroke:#e0a040,color:#fff
-    style B fill:#16213e,stroke:#e0a040,color:#fff
-    style C fill:#0f3460,stroke:#e0a040,color:#fff
-    style H fill:#0f3460,stroke:#e0a040,color:#fff
+    style A fill:#0d1117,stroke:#e0a040,color:#fff
+    style B fill:#161b22,stroke:#e0a040,color:#fff
+    style C fill:#1f2937,stroke:#e0a040,color:#fff
+    style H fill:#1f2937,stroke:#10b981,color:#fff
 ```
 
 </td>
@@ -215,242 +218,140 @@ graph TB
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FULL PROJECT PORTFOLIO -->
+<!-- FEATURED HIGH-IMPACT PLATFORMS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Project Portfolio — 15+ Projects Across 21 Repositories
+## 🚀 Featured Production Platforms (Curated Selection)
 
-### 🤖 AI & Machine Learning
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🧠 CONTRAGRAVITON
-**Agentic AI Desktop Platform**
-
-Full-stack AI assistant with browser automation, knowledge management, code editing, workflow builder, and real-time streaming — all in a Tauri desktop app.
-
-`FastAPI` `React 19` `Tauri 2` `LlamaIndex` `ChromaDB` `Playwright` `Three.js`
-
-</td>
-<td width="50%">
-
-#### 🔬 ImagineO — Dataset Generator & AI Vision Suite
-**Agricultural Data Engineering Platform**
-
-10-project AI suite: web harvesting, YOLO-based object extraction, synthetic dataset generation, model training (ViT, MobileNet), and universal multi-model disease diagnostics.
-
-`Python` `YOLOv11` `Vision Transformers` `MobileNetV3` `OpenAI` `FAISS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🔍 Vector Image Search
-**AI-Powered Similarity Search Engine**
-
-High-performance image search using EfficientNetB0 feature extraction and FAISS for sub-millisecond similarity matching. Supports crop disease detection across corn, potato, rice, and wheat.
-
-`FastAPI` `React + Vite` `EfficientNetB0` `FAISS` `AWS S3`
-
-</td>
-<td width="50%">
-
-#### 🤖 [Echo AI Assistant](https://www.youtube.com/watch?v=DAEdfBPiQ14)
-**Task Automation Tool**
-
-AI-powered personal assistant for intelligent task automation and workflow management.
-
-`Python` `AI/ML` `NLP` `Automation`
-
-</td>
-</tr>
-</table>
-
-### 🌾 AgriTech & HealthTech
+### 🤖 1. Flagship AI & Agentic Systems
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
+
+#### 🧠 [CONTRAGRAVITON](https://contragraviton.aqibmehedi.com/)
+**Autonomous Agentic Process Orchestrator**
+- Operates 13 native CLI tools across file indexing, regex grep, AST diff patching, and browser subagents.
+- Dual-path semantic memory (ChromaDB) with live SSE reasoning streams and visual node workflows.
+- `FastAPI` `React 19` `Tauri 2 (Rust)` `LlamaIndex` `Playwright` `ChromaDB`
+
+</td>
+<td width="50%">
 
 #### 🌾 [Krishok AI](https://farmer.aqibmehedi.com/landing_page/)
-**AI Farming Platform**
-
-GPT-4o powered agricultural assistant with Bangla voice interaction, crop disease diagnosis via camera, dealer locator, and weather integration. Serves rural Bangladesh.
-
-`Flutter` `Laravel` `GPT-4o` `Firebase` `Google TTS`
-
-</td>
-<td width="33%">
-
-#### 🍵 Tea Pest Intelligence
-**Plantation Pest Management**
-
-Replaces WhatsApp chaos with offline-first mobile capture, 3D geospatial heatmaps, gamified reporting, and automated treatment dispatch for Bangladesh's tea estates.
-
-`Flutter` `FastAPI` `Next.js` `PostgreSQL + PostGIS` `AWS Lambda + SQS`
+**Multimodal Dialect-Aware Agricultural Intelligence**
+- Voice-first agricultural platform for rural Bangladesh with dialect-aware Bangla Speech-to-Text.
+- Camera-based visual crop disease diagnosis running reliably on low-bandwidth 2G/3G networks.
+- `Flutter` `Python` `GPT-4o` `Google Speech API` `Firebase` `Laravel`
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
-#### 🤰 Antental
-**Maternal Health Guidance App**
+#### 🦙 [Agri-Llama & MChat Offline LLM](https://huggingface.co/aqibmehedi/agri-llama)
+**On-Device 4-Bit GGUF Quantized Language Models**
+- Fine-tuned Bengali agricultural LLM quantized to 4-bit GGUF, operating on 2GB RAM edge devices.
+- Native Android Kotlin client running on-device Vulkan/NNAPI acceleration with zero internet.
+- `PyTorch` `LLaMA-3` `GGUF` `llama.cpp` `Kotlin` `Vulkan API` `C++ NDK`
 
-Antenatal & postnatal guidance for Bangladesh — WHO/UNICEF-backed content, personalized pregnancy journeys, offline mode, emergency features, and AI-generated learning content.
+</td>
+<td width="50%">
 
-`Flutter` `Laravel` `MySQL` `Firebase`
+#### 🔬 ImagineO & Vector Image Search
+**AI Computer Vision & Similarity Search Suite**
+- 10-project agricultural AI suite for dataset extraction, ViT / MobileNetV3 model training, and sub-millisecond similarity matching via FAISS.
+- `FastAPI` `FAISS` `EfficientNetB0` `YOLOv11` `PyTorch` `React + Vite`
 
 </td>
 </tr>
 </table>
 
-### 🏢 KP Cloud SaaS Ecosystem — 9+ Products
+### 🔒 2. FinTech, Hardware & Enterprise Systems
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-#### 📚 [KP Learn](https://kplearn.aqibmehedi.com/)
-**Learning Management System**
-
-Udemy-style LMS with course creation, quizzes, certificates, instructor dashboards, video management, and monetization.
-
-`PHP` `CodeIgniter` `MySQL` `JavaScript`
-
-</td>
-<td width="33%">
-
-#### 🛒 KP Commerce
-**Multi-Vendor eCommerce CMS**
-
-Full eCommerce ecosystem: admin panel, seller dashboard, customer app, deliveryman app, built-in POS, multi-language & multi-currency.
-
-`Laravel 10` `Flutter` `MySQL` `PHP 8.2`
+#### 💱 [Danesh Exchange Australia](https://apps.apple.com/us/app/danesh-exchange/id6450658342)
+**Banking-Grade Foreign Currency Exchange Platform**
+- High-security FinTech application processing 5,000+ daily transactions across 60+ global currencies.
+- Hardened with AES-256 GCM encryption, biometric OTP authentication, SSL pinning, and root/jailbreak detection.
+- Integrated nationwide with 3,000+ Australia Post retail distribution branches.
+- `Flutter` `Dart` `AES-256 GCM` `REST APIs` `Biometrics` `Australia Post API`
 
 </td>
-<td width="33%">
+<td width="50%">
 
-#### 👥 KP HRM
-**HR & Payroll Management**
-
-Recruitment to retirement: payroll automation, attendance, leave management, KPI tracking, timesheets, finance, helpdesk, and training modules.
-
-`Laravel` `PHP 8.2` `MySQL` `JavaScript`
+#### 🍵 [Tea Pest Intelligence Platform](https://github.com/Kamal-Paterson/Tea_Pest_Intelligence)
+**Spatial GIS & WebGL 3D Plantation Ecosystem**
+- Replaced manual field paper reports across commercial tea estates with offline-first mobile capture.
+- Executive WebGL 3D isometric geospatial heatmap powered by PostGIS with automated chemical dispatch.
+- `Flutter (Offline)` `Next.js` `FastAPI` `PostGIS` `WebGL` `Docker` `AWS`
 
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 
-#### 📋 KP Task
-**Project Management & Collaboration**
-
-Kanban boards, time tracking, invoicing, client portals, ticketing, built-in chat, and multi-role dashboards.
-
-`CodeIgniter` `PHP 8.0` `MySQL` `JavaScript`
-
-</td>
-<td width="33%">
-
-#### 🛍️ KP Shop
-**Digital Marketplace**
-
-Multi-vendor digital product sales with cloud storage (AWS S3, DigitalOcean, Storj), social logins, Pusher notifications, and reviewer panel.
-
-`Laravel` `PHP 8.x` `MySQL` `AWS S3` `Pusher`
+#### 💳 Tcard / Digi-Pass
+**Virtual Contactless NFC Payment & Access Protocol**
+- Contactless payments and enterprise access credentials using hardware NFC chips (Android ISO-DEP & iOS CoreNFC).
+- Real-time merchant tokenized transaction handshakes with sub-100ms processing and analytics.
+- `Flutter` `Android ISO-DEP` `iOS CoreNFC` `Laravel REST API` `Redis` `MySQL`
 
 </td>
-<td width="33%">
+<td width="50%">
 
-#### 💳 KP Cards
-**Digital Business Card Builder SaaS**
-
-Multi-user vCard platform with customizable templates, QR codes, real-time editing, subscription plans, and glassmorphic dark theme.
-
-`Laravel` `PHP 8.1` `MySQL` `JavaScript`
+#### 📁 [McFTP](https://github.com/Kamal-Paterson/McFTP)
+**Zero-Trust Private Enterprise Document OS**
+- Departmental document operating system with cryptographic isolation, FTPS, and automated OCR key-value extraction.
+- Private conversational knowledge querying over scanned invoices with complete audit logs.
+- `TypeScript` `Node.js` `Tesseract OCR` `Local LLMs` `SQLite` `Prisma`
 
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 
-#### 🌐 KPSpace
-**Multipurpose Agency Platform**
-
-Laravel 12 agency script with pre-designed layouts, SASS styling, RTL support, multilingual (Bengali), e-commerce, and invoice templates.
-
-`Laravel 12` `PHP 8.x` `MySQL` `SASS`
+#### 📖 [Porua.org](https://porua.org/)
+**Hardware-Bound Cryptographic DRM eBook Platform**
+- Secure digital publishing distribution platform with hardware-bound DRM and on-the-fly memory stream decryption.
+- Built-in piracy defenses, screenshot protection, and multi-currency international author royalties.
+- `Flutter` `Custom DRM Module` `AES-256` `WebAssembly` `Node.js`
 
 </td>
-<td width="33%" colspan="2">
+<td width="50%">
 
-#### 🔗 Synapse Link
-**Boardroom Automation System**
-
-Zero-friction conference room appliance: 1-click Zoom/Teams launch, OBS-powered laptop presentation, IT panic button with Slack/Teams webhooks, glassmorphic kiosk UI.
-
-`React` `Tailwind CSS v4` `Framer Motion` `Python` `OBS Studio`
+#### 🖥️ [Synapse Link (KP Nexus)](https://github.com/Kamal-Paterson/Synapse-Link)
+**Zero-Install Boardroom Automation Hub**
+- Conference room appliance enabling zero-install browser display casting, one-touch Zoom/Teams launch, and private stream routing.
+- `React` `Tailwind CSS` `WebSockets` `WebRTC` `Python` `OBS Studio`
 
 </td>
 </tr>
 </table>
 
-### 📱 Consumer Apps
+### 🏆 3. Award-Winning Platforms
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-#### 🦉 [Sleepy Owl Stories](https://play.google.com/store/apps/details?id=com.kpcloud.bedtime_app)
-**AI Bedtime Storytelling**
-
-Personalized AI stories with character customization, moral themes, Chibi art generation, multi-language TTS narration, and background music. Published on Google Play.
-
-`Flutter` `PHP` `MySQL` `GPT` `DeepAI` `Google TTS`
-
-</td>
-<td width="33%">
-
-#### 🍳 Pocket Chef AI
-**AI Cooking Assistant**
-
-Recipe generation from available ingredients, voice-controlled cooking, smart pantry management with expiry tracking, meal planning, and camera-based ingredient scanning.
-
-`Flutter` `Laravel` `GPT-3.5` `DeepAI` `Firebase`
+#### 🥇 [E-PARKING (Shared Economy Smart Parking)](https://aqibmehedi.com)
+**Winner — BASIS National ICT Award 2018 (Innovation Category)**
+- Shared-economy smart parking ecosystem enabling property owners to monetize unused parking spaces.
+- Dynamic encrypted QR gate triggers, IoT microcontroller gate barriers, automated duration billing, and in-app navigation.
+- `Native Android` `Flutter` `Laravel REST API` `IoT Microcontrollers` `Redis` `MySQL`
 
 </td>
-<td width="33%">
+<td width="50%">
 
-#### 💱 [Danesh Exchange](https://apps.apple.com/us/app/danesh-exchange/id6450658342)
-**Banking-Grade FinTech App**
-
-Secure currency exchange with AES encryption, OTP auth, root/jailbreak detection. Integrated with 3,000+ Australia Post locations.
-
-`Flutter` `Firebase` `AES Encryption` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-#### 📖 [Porua](https://porua.org/)
-**Bangla eBook Reader**
-
-Multilingual digital reading platform serving the Bengali-speaking community.
-
-`Flutter` `Laravel` `Firebase` `REST APIs`
-
-</td>
-<td width="33%" colspan="2">
-
-#### 📝 OnlyMCQ & Saifurs Books
-**EdTech Platforms**
-
-Exam preparation platform and digital content platform for Saifurs educational materials.
-
-`Flutter` `Laravel` `Firebase` `REST APIs`
+#### 🏆 [HOMEFOODZ (Culinary Merchant Marketplace)](https://aqibmehedi.com)
+**Champion — Banglalink IT Incubator 2.0 (Seed Funded)**
+- Food delivery marketplace connecting urban households with certified home chefs across Dhaka.
+- Real-time kitchen order tracking, automated dispatch routing, and multi-party escrow revenue splitting.
+- `React Native` `Flutter` `Node.js` `Express` `MongoDB` `Firebase Cloud Messaging`
 
 </td>
 </tr>
@@ -462,38 +363,44 @@ Exam preparation platform and digital content platform for Saifurs educational m
 <!-- PROFESSIONAL EXPERIENCE TIMELINE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 💼 Professional Journey
+## 💼 Professional Trajectory (2017 – Present)
 
 ```
-2025 ─── Present    🏢 Senior Mobile App Developer (Flutter) — Kamal-Paterson Ltd (KP Cloud)
-                    ├── Architected 5+ AI-powered mobile apps (Flutter + Firebase)
-                    ├── Built Sleepy Owl Stories, Pocket Chef AI, Krishok AI
-                    ├── Created Tea Pest Intelligence & ImagineO AI Vision Suite
-                    ├── Led KP Learn, KP Commerce, KP HRM, KP Task, KP Cards, KP Shop
-                    └── Designed Synapse Link boardroom automation system
+2025 ─── Present    🏢 Senior Software Architect & Mobile Lead — Kamal-Paterson Ltd (KP Cloud)
+                    ├── Leading core architecture across AI Agentic platforms, Mobile apps & Cloud
+                    ├── Shipped Contragraviton, Krishok AI, Tea Pest Intelligence & ImagineO Suite
+                    ├── Directing enterprise platforms: McFTP, Synapse Link, and KP SaaS ecosystem
+                    └── Technology Stack: Flutter, FastAPI, Python, React 19, Tauri 2, PostGIS, AWS
 
-2023 ─── 2024      🏢 Senior Software Engineer (Flutter) — Technosoft Informatics LTD
-                    ├── Tcard (NFC payments), Porua (multilingual eBooks)
-                    ├── OnlyMCQ (exam prep), Saifurs Books (digital education)
-                    └── End-to-end: planning → CI/CD → deployment → QA
+2023 ─── 2024      🏢 Senior Software Engineer (Flutter & Systems) — Technosoft Informatics LTD
+                    ├── Engineered Tcard (contactless NFC payment), Porua.org (DRM eBook platform)
+                    ├── Shipped OnlyMCQ (high-throughput exam prep) & Saifurs Digital Platform
+                    ├── Established automated CI/CD release pipelines (Codemagic, GitHub Actions)
+                    └── Technology Stack: Flutter, Dart, Android NDK, iOS CoreNFC, AES-256, Laravel
 
-2022 ─── 2023      🏢 Flutter App Developer — Danesh Exchange (Australia)
-                    ├── Banking-grade app: AES encryption, OTP auth, root detection
-                    └── Integrated with 3,000+ Australia Post locations
+2022 ─── 2023      🏢 Lead Mobile App Developer — Danesh Exchange (Australia)
+                    ├── Built banking-grade FX mobile platform with AES-256 GCM & biometric auth
+                    ├── Integrated nationwide cash pickup via 3,000+ Australia Post retail branches
+                    ├── Enforced PCI-DSS compliance, root/jailbreak detection & zero-trust API security
+                    └── Technology Stack: Flutter, Dart, REST APIs, Security Hardening, AusPost APIs
 
-2017 ─── 2022      🚀 Freelance & Entrepreneurial Phase
-                    ├── Architected SaaS ecosystem with 9+ products
-                    ├── Mentored 40+ students in career prep & job placements
-                    └── Won BASIS National ICT Awards 2018
+2018 ─── 2022      🚀 Independent Technology Consultant & Software Architect
+                    ├── Appointed SEIP Technical Trainer at BITM (2018–2020), mentoring 150+ engineers
+                    ├── Winner of the BASIS National ICT Award 2018 for E-PARKING IoT Platform
+                    ├── Champion of Banglalink IT Incubator 2.0 for HOMEFOODZ Marketplace
+                    └── Architected enterprise SaaS applications, custom CRMs, and payment gateways
+
+2017                🎓 BSc in Computer Science & Engineering — Daffodil International University
+                    └── Graduated with High Distinction (CGPA: 3.64 / 4.00) • Finalist for Bangla Wall-E AI
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Code Velocity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aqibmehedi007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&icon_color=e0a040&text_color=8b949e&ring_color=e0a040" alt="GitHub Stats" />
@@ -501,7 +408,7 @@ Exam preparation platform and digital content platform for Saifurs educational m
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmehedi007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -511,27 +418,30 @@ Exam preparation platform and digital content platform for Saifurs educational m
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- AWARDS & EDUCATION -->
+<!-- AWARDS & HONORS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 Awards & Education
+## 🏆 Honors, Awards & Certifications
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏅 Awards
-- **🥇 BASIS National ICT Awards 2018** — Winner (Smart Parking App, Innovation Category)
-- **🏁 Banglalink IT Incubator 2.0** — Finalist (HomeFoodz Platform)
+### 🏅 National Honors & Awards
+- **🥇 Winner — BASIS National ICT Awards 2018**
+  *Category:* Innovation in Smart City & IoT (E-PARKING Platform)
+- **🏆 Champion — Banglalink IT Incubator 2.0**
+  *Category:* Digital Marketplace with Venture Incubation (HOMEFOODZ)
 
 </td>
 <td width="50%">
 
-### 🎓 Education
-- **BSc in Computer Science & Engineering** — Daffodil International University (2017)
-  - CGPA: 3.64/4.0
-  - Final Project: *Bangla Wall E (AI)* — Interactive AI-powered educational platform
-- **Android Development Certification (SEIP)** — BASIS Institute (2018)
+### 🎓 Academic & Professional Credentials
+- **BSc in Computer Science & Engineering (2017)**
+  *Daffodil International University* — **CGPA: 3.64 / 4.00**
+  *Thesis:* AI Wall-E — Autonomous Computer Vision & Edge Robotics
+- **SEIP Certified Lead Technical Trainer (2018)**
+  *BASIS Institute of Technology & Management (BITM)*
 
 </td>
 </tr>
@@ -540,10 +450,10 @@ Exam preparation platform and digital content platform for Saifurs educational m
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT -->
+<!-- CONNECT & SOCIALS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Connect
+## 🤝 Let's Collaborate
 
 <p align="center">
   <a href="mailto:aqibcareer007@gmail.com"><img src="https://img.shields.io/badge/Email-aqibcareer007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -553,21 +463,11 @@ Exam preparation platform and digital content platform for Saifurs educational m
 </p>
 
 <p align="center">
-  <i>"I bridge the gap between complex AI backends and seamless mobile experiences — building products that feel alive."</i>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 3D CONTRIBUTION MAP -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://github.com/aqibmehedi007/aqibmehedi007/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+  <i>"I engineer autonomous AI pipelines, resilient mobile architectures, and zero-trust cloud systems that scale to millions and deliver measurable business value."</i>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
+<!-- FOOTER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0a040,50:2d1b4e,100:1a1a2e&section=footer&height=120&text=⭐%20From%20aqibmehedi007%20—%20Dhaka,%20Bangladesh%20🇧🇩&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0a040,40:1f2937,80:161b22,100:0d1117&section=footer&height=130&text=⭐%20Engineered%20by%20Aqib%20Mehedi%20•%20Dhaka,%20Bangladesh%20🇧🇩&fontSize=15&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
